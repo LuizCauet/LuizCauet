@@ -12,15 +12,19 @@
 
 ### 👋 About
 
-I'm Luiz — Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
+Building machine learning products.
 
-I build machine learning products: models that ship inside real apps, not just notebooks. Right now that's leading AI/software on **The Audition**, a guitar-performance game with a PyTorch solo classifier, plus a few of my own projects. Before that I did a stint in UCSC's Augmented Design Lab working on LLM + procedural generation research.
+Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
 
-Music is the other half — I founded and run **The Slug Collective**, a 100+ member music + tech org at UCSC.
+**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
 
-**Open to full-time ML / software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,java,pytorch,fastapi,docker,supabase,postgres,aws,linux,git,godot&perline=13)](https://skillicons.dev)
 
----
+</div>
+
+## Projects
 
 ### 🎛️ Resonance — Text-to-Synth Preset Generator
 
@@ -64,10 +68,6 @@ Past research (Jan–Mar 2026) with Dr. Jim Whitehead: LLM + procedural content 
 - **Integem** — AI & Robotics Instructor (Jun–Jul 2026) — YOLOv5 pipeline, CV, NVIDIA GenAI curriculum
 - **Augmented Design Lab** — Research Participant (Jan–Mar 2026)
 - **The Slug Collective** — Founder & President (Dec 2024 – now)
-
-### 🧰 Tech
-
-[![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,java,pytorch,fastapi,docker,supabase,postgres,aws,linux,git,godot&perline=13)](https://skillicons.dev)
 
 <div align="center">
 
