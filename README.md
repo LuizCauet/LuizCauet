@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luizcauet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizcauet)
 [![Resume](https://img.shields.io/badge/Resume-PDF-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://luizblum.com/assets/Luiz%20Cauet%20Castilla%20Ruy%20Blum%20Resume%202027.pdf)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=I+build+ML+products+people+actually+use.;PyTorch+%2B+FastAPI+%2B+React;Music+%2B+tech+%3D+my+whole+thing;UCSC+Computer+Engineering+%2727)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Machine+Learning;AI+Infrastructure;Full-Stack+Development;Applied+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,6 +35,8 @@ Multimodal ML pipeline that turns plain-English prompts into synthesizer presets
 ### 🎸 The Audition — AI-Driven Guitar Performance Game
 
 Lead AI & Software Engineer on a 13-person team. Built a PyTorch model that classifies guitar solo quality with 85% agreement with human rankings (Spearman), plus gameplay systems and AI in Godot.
+
+[→ See it on my site](https://luizblum.com/#project/audition)
 
 ### 🎵 SmartQueue — Adaptive Spotify Queue
 
