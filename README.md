@@ -1,34 +1,76 @@
-# Hi, I'm Luiz 👋
+<div align="center">
 
-**Computer Engineering @ UC Santa Cruz** — B.S. Systems Programming, CS minor, graduating March 2027.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Luiz%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-I work where ML meets real systems: ML models, embedded firmware, signal processing, and the full-stack software around them. Currently doing research in UCSC's Augmented Design Lab (LLMs + procedural content generation), building mechatronics in ECE 118, and shipping embedded systems in CSE 121.
+[![Portfolio](https://img.shields.io/badge/Portfolio-luizblum.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luizblum.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizcauet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizcauet)
+[![Resume](https://img.shields.io/badge/Resume-PDF-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://luizblum.com/assets/Luiz%20Cauet%20Castilla%20Ruy%20Blum%20Resume%202027.pdf)
 
-**Open to full-time ML / software roles starting March 2027.** Authorized to work in the US & EU — no sponsorship needed.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=I+build+ML+products+people+actually+use.;PyTorch+%2B+FastAPI+%2B+React;Music+%2B+tech+%3D+my+whole+thing;UCSC+Computer+Engineering+%2727)](https://git.io/typing-svg)
+
+</div>
+
+### 👋 About
+
+I'm Luiz — Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
+
+I build machine learning products: models that ship inside real apps, not just notebooks. Right now that's leading AI/software on **The Audition**, a guitar-performance game with a PyTorch solo classifier, plus a few of my own projects. Before that I did a stint in UCSC's Augmented Design Lab working on LLM + procedural generation research.
+
+Music is the other half — I founded and run **The Slug Collective**, a 100+ member music + tech org at UCSC.
+
+**Open to full-time ML / software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
 
 ---
 
-### Featured projects
+### 🎛️ Resonance — Text-to-Synth Preset Generator
 
-| Project | What it is |
-|---|---|
-| [Wave-Function-Collapse](https://github.com/LuizCauet/Wave-Function-Collapse) | Procedural generation with Wave Function Collapse — from my research in the Augmented Design Lab. ([Demo](https://github.com/LuizCauet/Wave-Function-Collapse-Demo)) |
-| [Z3-Constraint-Solver](https://github.com/LuizCauet/Z3-Constraint-Solver) | Constraint solving with Z3, also from the Augmented Design Lab work. |
-| [smart-queue](https://github.com/LuizCauet/smart-queue) | Adaptive queue-powered Spotify platform. |
-| [Collab](https://github.com/LuizCauet/Collab) | Forum for musicians to find collaborators — Node.js + React. |
-| [StockMentions](https://github.com/LuizCauet/StockMentions) | Finds the most mentioned stocks on Reddit. |
-| [Panda3D-Traffic-Simulation](https://github.com/LuizCauet/Panda3D-Traffic-Simulation) | Traffic simulation built with Panda3D. |
-| [Swole](https://github.com/LuizCauet/Swole) | Simple daily macro tracking. |
+Multimodal ML pipeline that turns plain-English prompts into synthesizer presets. CLAP audio-text embeddings + vector similarity search, LLM-driven iterative fine-tuning, FastAPI backend, Docker on Oracle Cloud, Next.js frontend.
 
-### Experience highlights
+[→ See it on my site](https://luizblum.com)
 
-- **The Audition** — Lead AI/software engineer, 13-person team. PyTorch guitar-solo classifier with 85% agreement with human rankings.
-- **Integem** — Built a YOLOv5 training pipeline; taught computer vision, generative AI, and the NVIDIA curriculum.
-- **Resonance** — Multimodal text-to-synth ML pipeline (CLAP embeddings, FastAPI, Docker, Oracle Cloud).
-- **The Slug Collective** — Founder & President. 100+ members, $1,500 funding, 12-track release.
+### 🎸 The Audition — AI-Driven Guitar Performance Game
 
-### Connect
+Lead AI & Software Engineer on a 13-person team. Built a PyTorch model that classifies guitar solo quality with 85% agreement with human rankings (Spearman), plus gameplay systems and AI in Godot.
 
-- 🌐 [luizblum.com](https://luizblum.com)
-- 💼 [linkedin.com/in/luizcauet](https://linkedin.com/in/luizcauet)
-- 📄 [Resume (PDF)](https://luizblum.com/assets/Luiz%20Cauet%20Castilla%20Ruy%20Blum%20Resume%202027.pdf)
+### 🎵 SmartQueue — Adaptive Spotify Queue
+
+Adaptive queue system that reorders playlists based on user behavior. Weighted recommendation algorithm with persistent state via Supabase Auth + RLS.
+
+[→ Repo](https://github.com/LuizCauet/smart-queue)
+
+### 🏆 Collab — Music Collaboration Forum
+
+1st place hackathon winner. Full-stack platform for musicians to find collaborators — auth, media uploads, real-time interaction, AWS S3 audio storage.
+
+[→ Repo](https://github.com/LuizCauet/Collab)
+
+### 🧩 Procedural Generation Research — Augmented Design Lab
+
+Past research (Jan–Mar 2026) with Dr. Jim Whitehead: LLM + procedural content generation, Wave Function Collapse, Z3 constraint solving, grid-based world generation.
+
+[→ Wave Function Collapse](https://github.com/LuizCauet/Wave-Function-Collapse) · [Demo](https://github.com/LuizCauet/Wave-Function-Collapse-Demo) · [Z3 Solver](https://github.com/LuizCauet/Z3-Constraint-Solver)
+
+---
+
+### 🛠️ More projects
+
+- [StockMentions](https://github.com/LuizCauet/StockMentions) — Finds the most mentioned stocks on Reddit.
+- [Panda3D-Traffic-Simulation](https://github.com/LuizCauet/Panda3D-Traffic-Simulation) — Traffic simulation built with Panda3D.
+- [Swole](https://github.com/LuizCauet/Swole) — Simple daily macro tracking.
+
+### 💼 Experience
+
+- **The Audition** — Lead AI & Software Engineer (Sep 2025 – now)
+- **Integem** — AI & Robotics Instructor (Jun–Jul 2026) — YOLOv5 pipeline, CV, NVIDIA GenAI curriculum
+- **Augmented Design Lab** — Research Participant (Jan–Mar 2026)
+- **The Slug Collective** — Founder & President (Dec 2024 – now)
+
+### 🧰 Tech
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,java,pytorch,fastapi,docker,supabase,postgres,aws,linux,git,godot&perline=13)](https://skillicons.dev)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
