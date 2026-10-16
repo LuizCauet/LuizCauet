@@ -16,7 +16,7 @@ Building machine learning products.
 
 Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
 
-**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
+**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US, EU & Brazil; no sponsorship needed.
 
 <div align="center">
   
