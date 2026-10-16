@@ -6,17 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luizcauet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizcauet)
 [![Resume](https://img.shields.io/badge/Resume-PDF-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://luizblum.com/assets/Luiz%20Cauet%20Castilla%20Ruy%20Blum%20Resume%202027.pdf)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Machine+Learning;AI+Infrastructure;Full-Stack+Development;Applied+AI)](https://git.io/typing-svg)
-
 </div>
 
 ### 👋 About
 
-Building machine learning products.
+**Software Engineer · Applied ML**
 
 Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
 
-**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US, EU & Brazil; no sponsorship needed.
+I build ML-powered products: audio intelligence (Resonance), game AI (The Audition), and full-stack apps (SmartQueue).
+
+**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
 
 <div align="center">
   
@@ -28,19 +28,19 @@ Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduati
 
 ### 🎛️ Resonance — Text-to-Synth Preset Generator
 
-Multimodal ML pipeline that turns plain-English prompts into synthesizer presets. CLAP audio-text embeddings + vector similarity search, LLM-driven iterative fine-tuning, FastAPI backend, Docker on Oracle Cloud, Next.js frontend.
+AI-powered discovery for Vital synthesizer presets. Describe a sound in plain English and Resonance retrieves matching presets, lets you preview them, and conversationally refines them. Retrieval uses LAION-CLAP embeddings + cosine-similarity search over presets (pgvector); refinement is an LLM-driven JSON parameter patch against Vital's real parameters. Built with a team over four Agile sprints for CSE 115A (originally prototyped as SynthGPT). Stack: Next.js, FastAPI, PostgreSQL/pgvector, Docker Compose. Live demo is currently paused — the repo has full setup to run it locally.
 
-[→ See it on my site](https://luizblum.com)
+[→ Source](https://github.com/andrewweckwerth/Resonance) · [→ Project page](https://luizblum.com/#project/resonance)
 
 ### 🎸 The Audition — AI-Driven Guitar Performance Game
 
-Lead AI & Software Engineer on a 13-person team. Built a PyTorch model that classifies guitar solo quality with 85% agreement with human rankings (Spearman), plus gameplay systems and AI in Godot.
+Lead AI & Software Engineer on a 13-person team building a musical 3D psych-horror game. I built a PyTorch model that takes recorded guitar solos as input and predicts quality rankings — evaluated at 85% agreement with human rankings (Spearman correlation) — plus gameplay systems and AI in Godot.
 
 [→ See it on my site](https://luizblum.com/#project/audition)
 
 ### 🎵 SmartQueue — Adaptive Spotify Queue
 
-Adaptive queue system that reorders playlists based on user behavior. Weighted recommendation algorithm with persistent state via Supabase Auth + RLS.
+Spotify's queue, rebuilt. Artists are ranked in tiers (1–10, starting at 5); skips (early −2, late −0.5) and full plays (+1) adjust tiers, and every 3 songs the remaining queue is resampled with probability proportional to tier — so you hear more of what you want without leaving your playlist. The next few tracks stay locked so the player UI stays predictable. Supabase Auth + PostgreSQL + RLS for persistent state; Spotify Web Playback SDK.
 
 [→ Repo](https://github.com/LuizCauet/smart-queue)
 
@@ -66,10 +66,10 @@ Past research (Jan–Mar 2026) with Dr. Jim Whitehead: LLM + procedural content 
 
 ### 💼 Experience
 
-- **The Audition** — Lead AI & Software Engineer (Sep 2025 – now)
-- **Integem** — AI & Robotics Instructor (Jun–Jul 2026) — YOLOv5 pipeline, CV, NVIDIA GenAI curriculum
-- **Augmented Design Lab** — Research Participant (Jan–Mar 2026)
-- **The Slug Collective** — Founder & President (Dec 2024 – now)
+- **The Audition** — Lead AI & Software Engineer (Sep 2025 – now). PyTorch guitar-solo classifier, 85% agreement with human rankings; gameplay systems + AI in Godot; leading a 13-person team.
+- **Integem** — AI & Robotics Instructor (Jun–Jul 2026). Guided students through the full YOLOv5 pipeline (dataset → annotation → training → tuning); taught CV + NVIDIA GenAI curriculum.
+- **Augmented Design Lab** — Research Participant (Jan–Mar 2026). PCG prototypes with LLMs, Wave Function Collapse, Z3; grid-based world generation + constraint pipelines.
+- **The Slug Collective** — Founder & President (Dec 2024 – now). 100+ members, $1,500 funding, 12-track release.
 
 <div align="center">
 
