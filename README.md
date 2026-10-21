@@ -10,13 +10,13 @@
 
 ### 👋 About
 
-**Software Engineer · Applied ML**
+**ML Systems · Backend Engineering**
 
 Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
 
-I build ML-powered products: audio intelligence (Resonance), game AI (The Audition), and full-stack apps (SmartQueue).
+I build machine learning pipelines, backend services, and software that connects the two. My projects span audio retrieval (Resonance), model training and evaluation (The Audition), and adaptive queueing with persistent state (SmartQueue).
 
-**Open to full-time ML/software roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
+**Seeking full-time ML systems and backend engineering roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
 
 <div align="center">
   
@@ -34,7 +34,7 @@ AI-powered discovery for Vital synthesizer presets. Describe a sound in plain En
 
 ### 🎸 The Audition — AI-Driven Guitar Performance Game
 
-Lead AI & Software Engineer on a 13-person team building a musical 3D psych-horror game. I built a PyTorch model that takes recorded guitar solos as input and predicts quality rankings — evaluated at 85% agreement with human rankings (Spearman correlation) — plus gameplay systems and AI in Godot.
+Lead AI & Software Engineer on a 13-person team building a musical 3D psych-horror game. I built a PyTorch model to score guitar-solo sequences, along with a comparison website and sequence database to collect human preferences. Predicted scores achieved Spearman rank correlation of 0.848 against human-derived Elo scores. I also build gameplay systems and AI in Godot.
 
 [→ See it on my site](https://luizblum.com/#project/audition)
 
@@ -66,7 +66,7 @@ Past research (Jan–Mar 2026) with Dr. Jim Whitehead: LLM + procedural content 
 
 ### 💼 Experience
 
-- **The Audition** — Lead AI & Software Engineer (Sep 2025 – now). PyTorch guitar-solo classifier, 85% agreement with human rankings; gameplay systems + AI in Godot; leading a 13-person team.
+- **The Audition** — Lead AI & Software Engineer (Sep 2025 – now). PyTorch guitar-solo scoring model, human-preference data collection, and model evaluation (Spearman ρ = 0.848); gameplay systems + AI in Godot; leading a 13-person team.
 - **Integem** — AI & Robotics Instructor (Jun–Jul 2026). Guided students through the full YOLOv5 pipeline (dataset → annotation → training → tuning); taught CV + NVIDIA GenAI curriculum.
 - **Augmented Design Lab** — Research Participant (Jan–Mar 2026). PCG prototypes with LLMs, Wave Function Collapse, Z3; grid-based world generation + constraint pipelines.
 - **The Slug Collective** — Founder & President (Dec 2024 – now). 100+ members, $1,500 funding, 12-track release.
