@@ -16,7 +16,7 @@ Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduati
 
 I build machine learning pipelines, backend services, and software that connects the two. My projects span audio retrieval (Resonance), model training and evaluation (The Audition), and adaptive queueing with persistent state (SmartQueue).
 
-**Seeking full-time ML systems and backend engineering roles starting March 2027.** Authorized to work in the US & EU, no sponsorship needed.
+**Seeking full-time ML systems and backend engineering roles starting March 2027.** Authorized to work in the US, EU, and Brazil, no sponsorship needed.
 
 <div align="center">
   
