@@ -14,7 +14,7 @@
 
 Computer Engineering (Systems Programming) + CS minor at UC Santa Cruz, graduating March 2027.
 
-I build machine learning pipelines, backend services, and software that connects the two. My projects span audio retrieval (Resonance), model training and evaluation (The Audition), adaptive queueing with persistent state (SmartQueue), and a deployed music community app (Slug Collective).
+I build machine learning pipelines, backend services, and software that connects the two. My projects span audio retrieval (Resonance), compact computer vision models (Facial Expression Game Controller), learned music evaluation (The Audition), and deployed backend services (Slug Collective).
 
 **Seeking full-time ML systems and backend engineering roles starting March 2027.** Authorized to work in the US, EU, and Brazil, no sponsorship needed.
 
@@ -31,6 +31,14 @@ I build machine learning pipelines, backend services, and software that connects
 AI-powered discovery for Vital synthesizer presets. Describe a sound in plain English and Resonance retrieves matching presets, lets you preview them, and conversationally refines them. Retrieval uses LAION-CLAP embeddings + cosine-similarity search over presets (pgvector); refinement is an LLM-driven JSON parameter patch against Vital's real parameters. Built with a team over four Agile sprints for CSE 115A (originally prototyped as SynthGPT). Stack: Next.js, FastAPI, PostgreSQL/pgvector, Docker Compose. Live demo is currently paused — the repo has full setup to run it locally.
 
 [→ Source](https://github.com/andrewweckwerth/Resonance) · [→ Project page](https://luizblum.com/#project/resonance)
+
+### 📷 Facial Expression Game Controller — Compact CNN & Webcam Inference
+
+Built a TensorFlow/Keras facial-expression classifier and OpenCV webcam controller. Architecture and training experiments improved validation accuracy from 46.1% to 71.5%, with a 141,675-parameter model. A separate comparison against a matched four-layer baseline showed an 8.9 percentage-point validation gain under the same training budget.
+
+The repository documents controlled GPU experiments, failed runs, inference label mapping, face cropping, prediction smoothing, and confidence gating. Results are single-seed validation measurements; current-model test accuracy and live webcam accuracy remain unmeasured. Original coursework with Ananya Jakilati; follow-up experiments by me.
+
+[→ Source](https://github.com/LuizCauet/P6-CMPM146) · [→ Experiment report](https://github.com/LuizCauet/P6-CMPM146/blob/main/docs/EXPERIMENT_REPORT.md) · [→ Project page](https://luizblum.com/#project/expression)
 
 ### 🎸 The Audition — AI-Driven Guitar Performance Game
 
@@ -52,17 +60,17 @@ Spotify's queue, rebuilt. Artists are ranked in tiers (1–10, starting at 5); s
 
 [→ Repo](https://github.com/LuizCauet/smart-queue)
 
-### 🏆 Collab — Music Collaboration Forum
-
-1st place hackathon winner. Full-stack platform for musicians to find collaborators — auth, media uploads, real-time interaction, AWS S3 audio storage.
-
-[→ Repo](https://github.com/LuizCauet/Collab)
-
 ### 🧩 Procedural Generation Research — Augmented Design Lab
 
 Past research (Jan–Mar 2026) with Dr. Jim Whitehead: LLM + procedural content generation, Wave Function Collapse, Z3 constraint solving, grid-based world generation.
 
 [→ Wave Function Collapse](https://github.com/LuizCauet/Wave-Function-Collapse) · [Demo](https://github.com/LuizCauet/Wave-Function-Collapse-Demo) · [Z3 Solver](https://github.com/LuizCauet/Z3-Constraint-Solver)
+
+### 🏆 Collab — Music Collaboration Forum
+
+1st place hackathon winner. Full-stack platform for musicians to find collaborators — auth, media uploads, real-time interaction, AWS S3 audio storage.
+
+[→ Repo](https://github.com/LuizCauet/Collab)
 
 ---
 
